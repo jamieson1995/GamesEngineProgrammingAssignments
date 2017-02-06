@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\james\desktop\gep_assignment1_finalsubmission\project and source code\game_engine_programming_assignment_1\linmath.h(320): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\james\desktop\gep_assignment1_finalsubmission\project and source code\game_engine_programming_assignment_1\GameObject.h(73): warning C4018: '<' : signed/unsigned mismatch
+          main.cpp(26) : see reference to function template instantiation 'ref<T> jutiny::engine::GameObject::getComponent<jutiny::engine::Camera>(void)' being compiled
+          with
+          [
+              T=jutiny::engine::Camera
+          ]
+     Creating library C:\Users\James\Desktop\GEP_Assignment1_FINALSUBMISSION\Project and Source Code\Release\Game_Engine_Programming_Assignment_1.lib and object C:\Users\James\Desktop\GEP_Assignment1_FINALSUBMISSION\Project and Source Code\Release\Game_Engine_Programming_Assignment_1.exp
+  Generating code
+  Finished generating code
+  Game_Engine_Programming_Assignment_1.vcxproj -> C:\Users\James\Desktop\GEP_Assignment1_FINALSUBMISSION\Project and Source Code\Release\Game_Engine_Programming_Assignment_1.exe
